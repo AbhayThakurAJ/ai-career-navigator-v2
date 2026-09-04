@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+.cache/
+.env*
+!.env.example
+.vite/
+*.tsbuildinfo
+*.log
